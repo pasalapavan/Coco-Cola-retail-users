@@ -51,13 +51,13 @@ The **Coca-Cola Retailer Dashboard** is an interactive Excel-based analytics too
 
 
 ---
-
+****
 ##📌 Future Enhancements
 
 - Connect dashboard to a live database for automatic updates.
 
 - Add product category filters.
 
-- Include profitability by brand breakdown.
+- Include profitability by brand breakdown.**
 
-- Create a Power BI version for web-based interactivity.
+- Create a Power BI version for web-based interactivity.**
