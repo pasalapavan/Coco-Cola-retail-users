@@ -8,7 +8,7 @@ The Coca-Cola Retailer Dashboard provides a comprehensive overview of beverage s
 
 📊 Key Features
 
-KPI Summary Cards:
+->  KPI Summary Cards:
 
 Total Sales: ₹36,43,616
 
