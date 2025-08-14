@@ -27,6 +27,12 @@ The Coca-Cola Retailer Dashboard provides a comprehensive overview of beverage s
 ->  Trend Visualization: Sales and operating profit margin by quarter (2022 & 2023).
 
 
+
+
+
+
+
+
 📈 Data Insights from the Dashboard
 
 ->  Top-Performing Brand: BevCo showed the largest positive variance in 2023 compared to 2022.
@@ -36,6 +42,12 @@ The Coca-Cola Retailer Dashboard provides a comprehensive overview of beverage s
 ->  Quarterly Trends: Sales peaked in Q1 and Q2 of 2023.
 
 ->  Negative Performance: West Soda had a slight decline in sales compared to the previous year.
+
+
+
+
+
+
 
 
 
@@ -57,6 +69,11 @@ The Coca-Cola Retailer Dashboard provides a comprehensive overview of beverage s
 
 
 
+
+
+
+
+
 📂 File Structure
 
 📦 CocaCola_Retailer_Dashboard
@@ -71,6 +88,13 @@ The Coca-Cola Retailer Dashboard provides a comprehensive overview of beverage s
 
 
 
+
+
+
+
+
+
+
 🚀 Usage Instructions
 
 ->  Open the Excel file in Microsoft Excel (or a compatible spreadsheet tool).
@@ -82,6 +106,12 @@ The Coca-Cola Retailer Dashboard provides a comprehensive overview of beverage s
 ->  Analyze variance columns to identify growth or decline areas.
 
 ->  Examine the quarterly trends chart for seasonal performance.
+
+
+
+
+
+
 
 
 
