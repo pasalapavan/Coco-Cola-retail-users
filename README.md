@@ -51,9 +51,8 @@ The **Coca-Cola Retailer Dashboard** is an interactive Excel-based analytics too
 
 
 ---
-****
-##📌 Future Enhancements
-
+📌 Future Enhancements
+---
 - Connect dashboard to a live database for automatic updates.
 
 - Add product category filters.
