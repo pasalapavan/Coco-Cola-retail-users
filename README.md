@@ -14,12 +14,14 @@ Regional Filter: Select from Midwest, Northeast, South, Southeast, and West to v
 Trend Visualization: Sales and operating profit margin by quarter (2022 & 2023).
 
 📈 Data Insights from the Dashboard
+
 Top-Performing Brand: BevCo showed the largest positive variance in 2023 compared to 2022.
 Strong Retailers: Coca-Cola, Dasani Water, and Diet Coke showed significant sales growth.
 Quarterly Trends: Sales peaked in Q1 and Q2 of 2023.
 Negative Performance: West Soda had a slight decline in sales compared to the previous year.
 
 🛠 Technical Details
+
 Data Source: Sales data from Coca-Cola retailer network (figures in ₹).
 Tool Used: Microsoft Excel (with PivotTables, Charts, and Slicers).
 Visualization Components:
