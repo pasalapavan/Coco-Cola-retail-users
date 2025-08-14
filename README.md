@@ -30,10 +30,14 @@ Interactive slicers for region selection
 
 📂 File Structure
 📦 CocaCola_Retailer_Dashboard
+
  ┣ 📜 CocaCola_Dashboard.xlsx    # Excel dashboard file
+ 
  ┣ 📜 README.md                  # Documentation file
+ 
  ┗ 📂 assets
-     ┗ 📜 dashboard_screenshot.png
+ 
+ ┗ 📜 dashboard_screenshot.png
 
 🚀 Usage Instructions
 Open the Excel file in Microsoft Excel (or a compatible spreadsheet tool).
