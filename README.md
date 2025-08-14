@@ -2,9 +2,17 @@ Coca-Cola Retailer Dashboard
 
 
 
+
+
 📌 Overview
 
 The Coca-Cola Retailer Dashboard provides a comprehensive overview of beverage sales performance across different brands, retailers, and regions. It offers key business metrics, sales comparisons, and profitability insights to help track performance and identify growth opportunities.
+
+
+
+
+
+
 
 📊 Key Features
 
