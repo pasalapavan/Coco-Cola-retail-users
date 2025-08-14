@@ -29,6 +29,7 @@ Quarterly sales & profit line/bar combo chart
 Interactive slicers for region selection
 
 📂 File Structure
+
 📦 CocaCola_Retailer_Dashboard
 
  ┣ 📜 CocaCola_Dashboard.xlsx    # Excel dashboard file
@@ -40,6 +41,7 @@ Interactive slicers for region selection
  ┗ 📜 dashboard_screenshot.png
 
 🚀 Usage Instructions
+
 Open the Excel file in Microsoft Excel (or a compatible spreadsheet tool).
 Use the Region Filter on the left to switch between geographic regions.
 Review KPI Cards for quick business performance insights.
@@ -47,8 +49,7 @@ Analyze variance columns to identify growth or decline areas.
 Examine the quarterly trends chart for seasonal performance.
 
 📌 Future Enhancements
-Automating data refresh from live databases.
 
+Automating data refresh from live databases
 Adding more granular filters (e.g., city-level, product category).
-
 Including profitability breakdown by brand.
