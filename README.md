@@ -14,7 +14,7 @@ The Coca-Cola Retailer Dashboard provides a comprehensive overview of beverage s
 
 
 
-📊 Key Features
+##📊 Key Features
 
 ->  KPI Summary Cards:
 
@@ -36,12 +36,12 @@ The Coca-Cola Retailer Dashboard provides a comprehensive overview of beverage s
 
 
 
-------
+---
 
 
 
 
-📈 Data Insights from the Dashboard
+##📈 Data Insights from the Dashboard
 
 ->  Top-Performing Brand: BevCo showed the largest positive variance in 2023 compared to 2022.
 
@@ -54,12 +54,12 @@ The Coca-Cola Retailer Dashboard provides a comprehensive overview of beverage s
 
 
 
-------
+---
 
 
 
 
-🛠 Technical Details
+##🛠 Technical Details
 
 ->  Data Source: Sales data from Coca-Cola retailer network (figures in ₹).
 
@@ -78,11 +78,11 @@ The Coca-Cola Retailer Dashboard provides a comprehensive overview of beverage s
 
 
 
--------
+---
 
 
 
-📂 File Structure
+##📂 File Structure
 
 📦 CocaCola_Retailer_Dashboard
 
@@ -97,13 +97,13 @@ The Coca-Cola Retailer Dashboard provides a comprehensive overview of beverage s
 
 
 
-----------
+---
 
 
 
 
 
-🚀 Usage Instructions
+##🚀 Usage Instructions
 
 ->  Open the Excel file in Microsoft Excel (or a compatible spreadsheet tool).
 
@@ -118,7 +118,7 @@ The Coca-Cola Retailer Dashboard provides a comprehensive overview of beverage s
 
 
 
-------
+---
 
 
 
